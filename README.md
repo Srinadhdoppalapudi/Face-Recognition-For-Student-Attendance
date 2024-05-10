@@ -34,19 +34,27 @@ This system was created to provide a simple and secure method of recording atten
 
 # Technologies Used
 
-## Training Models
+### Training Models
+
 
 ![Training Models](https://github.com/Srinadhdoppalapudi/Face-Recognition-For-Student-Attendance/assets/114092699/494e4c8e-b8f8-491b-ac21-202d1b1edaf7)
 
-## DataBase
+
+### DataBase
+
 
 ![database](https://github.com/Srinadhdoppalapudi/Face-Recognition-For-Student-Attendance/assets/114092699/163aa3cc-ad32-4bc8-99b9-3cc0cce89962)
 
-## Frontend
+
+### Frontend
+
 
 ![Frontend stack](https://github.com/Srinadhdoppalapudi/Face-Recognition-For-Student-Attendance/assets/114092699/09e812eb-c7e9-4263-acc4-4598e6c6f3f2)
 
-## Backend
+
+### Backend
+
+
 ![backend stack](https://github.com/Srinadhdoppalapudi/Face-Recognition-For-Student-Attendance/assets/114092699/2ffcc249-49e7-44f1-b861-6b5ac108eec1)
 
 
