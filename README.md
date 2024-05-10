@@ -2,7 +2,7 @@
 This system was created to provide a simple and secure method of recording attendance. The software initially takes a picture of all of the authorised people and stores it in a database. The image is then stored by mapping it into a face coordinate structure by the system. Whenever a registered person enters the premises, the system recognises him and records his time and attendance.
 
 # Credentials for frontend login page
-# Username: admin Password: admin
+  Username: admin Password: admin
 
 # Prerequisites
  Node.js 14 or later - install from https://nodejs.org/
